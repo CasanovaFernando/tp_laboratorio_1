@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459427614 source:c:\documents and settings\administrador\mis documentos\descargas\laboratorio 1\tp_1_cascara\tp_1_cascara\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1460028209 source:c:\documents and settings\administrador\escritorio\laboratorio 1\tp_1_cascara\tp_1_cascara\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1460027778 source:c:\documents and settings\administrador\escritorio\laboratorio 1\tp_1_cascara\tp_1_cascara\tp_1\libreria.c
+
+1460028209 c:\documents and settings\administrador\escritorio\laboratorio 1\tp_1_cascara\tp_1_cascara\tp_1\libreria.h
+
